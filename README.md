@@ -28,10 +28,9 @@ If using a framework: Fire an event that triggers a job.
     - [x] Add Seeders for test and "real-world" data
 - [x] Create routes and a controller for the data capture
     - [x] Create front end pages
-- [ ] Send email
-    - [ ] Set up a queue for the Jobs
-    - [ ] Create email template and job
-    - [ ] Add Observer to queue the mail
+- [x] Send email
+    - [x] Create email template and job
+    - [x] Add Observer to queue the mail
 - [ ] Set up cloud hosting
     - [ ] Look at Heroku like services to host the project
     - [ ] See if there is an free mailer that for the demo project if the provider does not all ready have one
