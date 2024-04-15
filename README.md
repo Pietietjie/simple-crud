@@ -22,7 +22,7 @@ If using a framework: Fire an event that triggers a job.
 ```
 
 ## Action plan
-- [ ] Initialise Laravel application
+- [x] Initialise Laravel application
 - [ ] Use Laravel's auth scaffholding
 - [ ] Add Migrations for the data that needs to be captured
     - [ ] Add Seeders for test and "real-world" data
