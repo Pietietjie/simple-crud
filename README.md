@@ -27,8 +27,7 @@ If using a framework: Fire an event that triggers a job.
 - [x] Add Migrations for the data that needs to be captured
     - [x] Add Seeders for test and "real-world" data
 - [x] Create routes and a controller for the data capture
-    - [ ] Create front end pages
-    - [ ] Find an implementation of a multi select that is simple
+    - [x] Create front end pages
 - [ ] Send email
     - [ ] Set up a queue for the Jobs
     - [ ] Create email template and job

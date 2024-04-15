@@ -6,3 +6,13 @@
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+.btn {
+    width: 150px;
+}
+.btn.btn-sm {
+    width: auto;
+}
+.inline-block {
+    display: inline-block;
+}
