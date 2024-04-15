@@ -25,7 +25,7 @@ If using a framework: Fire an event that triggers a job.
 - [x] Initialise Laravel application
 - [x] Use Laravel's auth scaffholding
 - [x] Add Migrations for the data that needs to be captured
-    - [ ] Add Seeders for test and "real-world" data
+    - [x] Add Seeders for test and "real-world" data
 - [ ] Create routes and a controller for the data capture
     - [ ] Create front end pages
     - [ ] Find an implementation of a multi select that is simple
