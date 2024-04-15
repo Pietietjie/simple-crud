@@ -23,7 +23,7 @@ If using a framework: Fire an event that triggers a job.
 
 ## Action plan
 - [x] Initialise Laravel application
-- [ ] Use Laravel's auth scaffholding
+- [x] Use Laravel's auth scaffholding
 - [ ] Add Migrations for the data that needs to be captured
     - [ ] Add Seeders for test and "real-world" data
 - [ ] Create routes and a controller for the data capture
